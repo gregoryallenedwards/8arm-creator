@@ -14,7 +14,7 @@ Running list of things Allen and/or Claude need to do. Review at the start of ea
 |---|--------|-------|--------|-------|
 | 1 | Re-examine the validation engine — is it still the right moat or has the Gemini VC discussion changed it? | Both | pending | See strategy/vc-pitch-context.md and strategy/validation-engine.md |
 | 2 | Figure out how to build with Claude Code where Claude can see changes in real time | Both | pending | Current flow: Claude builds → GitHub Actions compiles → slow, Claude can't see output. Need a live feedback loop. |
-| 3 | Get Claude access to GitHub the same way Claude Code does | Allen | pending | Explore GitHub MCP or token-based access so Claude can fetch/push without sandbox restrictions |
+| 3 | Install GitHub MCP server in Claude desktop config | Allen | in_progress | Use @modelcontextprotocol/server-github via npx + scoped PAT (repo scope only). Will enable Claude to push/pull without terminal. See conversation 2026-05-30. |
 | 4 | Start job search automation project (separate project) | Allen | pending | Feed Gemini job search data into a new Cowork project. Background task: generate resumes + cover letters from job specs. |
 | 5 | Move personal This60 parked action items into a Cowork project with weekly reminder | Allen | pending | Separate project — weekly spool-up reviews parked items |
 
