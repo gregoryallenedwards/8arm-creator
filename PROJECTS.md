@@ -3,18 +3,18 @@
 > **Rules:**
 > - Statuses are only changed when Allen explicitly says so
 > - Statuses: `backlog` | `active` | `posted` | `done`
-> - Review this list at the start of each session to set priorities
 > - Goal of every project: **great post**, not great product
+> - Claude recommends priority but Allen decides
 
 ---
 
 ## How to Read This List
 
-Each project has:
-- **Status** — where it is
-- **Category** — Games / Free App / Tech Demo / Joy / Automation / Content / Setup
-- **Post angle** — what the Substack post is about
-- **Next action** — the single next thing to do
+**Size:** XS (<2h) | S (half day) | M (1-2 days) | L (1 week) | XL (2+ weeks)  
+**Impact (1–5):** Content value + resume value + VC narrative fit + Phase 1 goal progress  
+**Priority:** 🔴 Do Now | 🟡 Plan | 🟢 Defer
+
+> Priority formula: High impact + small size = 🔴. High impact + large size = 🟡. Low impact = 🟢.
 
 ---
 
@@ -26,70 +26,79 @@ _Nothing active yet. Pick one from backlog to start._
 
 ## Backlog — Games
 
-| Project | Status | Post Angle | Next Action |
-|---------|--------|------------|-------------|
-| Gamified This 60 | backlog | Gamifying an ADHD focus app — what game mechanics map to real executive function needs | Define core game loop + write project brief |
-| Match 3 white label | backlog | Building the first fully AI-automated Match 3 — no studio, no engine lock-in | Define scope of "first automated game" experiment |
-| Bait & Tackle RPG Fishing | backlog | Incremental idle fishing RPG — how far can one person get with AI tools | Competitive research done (see research/builds/) |
-| Casino game | backlog | Building a casino game in public — what I learned about RNG and economy design | TBD |
+| Project | Status | Size | Impact | Priority | Post Angle | Next Action |
+|---------|--------|------|--------|----------|------------|-------------|
+| Gamified This 60 | backlog | M | 5 | 🔴 | Game developer applies LiveOps thinking to an ADHD focus app | Define core game loop on paper |
+| Claude Decider Engine | backlog | S | 4 | 🔴 | I built a Claude agent that decides what to build next | Design the prompt structure |
+| Match 3 white label | backlog | XL | 5 | 🟡 | First fully AI-automated Match 3 — no studio, no engine lock-in | Pick one automation piece to demo first |
+| Bait & Tackle RPG Fishing | backlog | L | 3 | 🟢 | Idle fishing RPG — how far can one person get with AI tools | TBD |
+| Casino game | backlog | M | 3 | 🟢 | Building a casino game in public — RNG and economy design | TBD |
 
 ---
 
 ## Backlog — Free Apps (Community Drops)
 
-| Project | Status | Post Angle | Next Action |
-|---------|--------|------------|-------------|
-| Digital Nomad visa reset timer | backlog | Built a free tool for r/digitalnomad in 3 hours — here's how | Pick a community, scope the tool |
-| Headcount burn rate calculator | backlog | Free tool for startup ops — and why I built it in public | TBD |
-| Work day overlap calculator | backlog | Solving remote team timezone pain with a single-purpose tool | TBD |
-| Gamified anxiety audit | backlog | Culture jamming wellness apps with their own mechanics | TBD |
-| Corporate apology generator | backlog | Satirical tool — MSCHF-style drop for r/InternetIsBeautiful | TBD |
-| Wellness Toxifier | backlog | Parody wellness app — drops to r/ofcoursethatsathing | TBD |
+| Project | Status | Size | Impact | Priority | Post Angle | Next Action |
+|---------|--------|------|--------|----------|------------|-------------|
+| Corporate apology generator | backlog | XS | 4 | 🔴 | Satirical tool — MSCHF-style drop for r/InternetIsBeautiful | Scope the tool, pick the community |
+| Digital Nomad visa reset timer | backlog | XS | 4 | 🔴 | Built a free tool for r/digitalnomad in 3 hours | Define the tool, pick the Reddit |
+| Wellness Toxifier | backlog | S | 4 | 🟡 | Parody wellness app — drops to r/ofcoursethatsathing | TBD |
+| Gamified anxiety audit | backlog | S | 3 | 🟡 | Culture jamming wellness apps with their own mechanics | TBD |
+| Work day overlap calculator | backlog | XS | 3 | 🟡 | Solving remote team timezone pain | TBD |
+| Headcount burn rate calculator | backlog | XS | 3 | 🟢 | Free tool for startup ops | TBD |
 
 ---
 
 ## Backlog — Tech Demos / Resume
 
-| Project | Status | Post Angle | Next Action |
-|---------|--------|------------|-------------|
-| Firecrawl integration demo | backlog | Using Firecrawl for cheap sentiment crawling without an API | TBD |
-| Stripe web billing demo | backlog | Wiring Stripe into a web app in one session | TBD |
-| Mobile dev with phone (DEX + XReal) | backlog | How far can you get as a developer with just a mobile phone | Outline the experiment |
-| GitHub Actions CI/CD demo | backlog | Automating my build pipeline — what I set up and why | TBD |
+| Project | Status | Size | Impact | Priority | Post Angle | Next Action |
+|---------|--------|------|--------|----------|------------|-------------|
+| Mobile dev with phone (DEX + XReal) | backlog | M | 5 | 🟡 | How far can you get as a developer with just a mobile phone | Outline the experiment |
+| Firecrawl integration demo | backlog | S | 4 | 🟡 | Using Firecrawl for cheap sentiment crawling | TBD |
+| GitHub Actions CI/CD demo | backlog | S | 4 | 🟡 | Automating my build pipeline | TBD |
+| Stripe web billing demo | backlog | S | 3 | 🟢 | Wiring Stripe into a web app in one session | TBD |
 
 ---
 
-## Backlog — Automation (Post Topics / Experiments)
+## Backlog — Automation / Experiments
 
-| Project | Status | Post Angle | Next Action |
-|---------|--------|------------|-------------|
-| Wireframe → polished UI pipeline | backlog | From Claude Design wireframe to production-ready look in one session | TBD |
-| Automated Substack pipeline | backlog | How I use MD files + Claude to semi-automate my newsletter | TBD |
-| Claude decider engine | backlog | I built a Claude agent that tells me what to build next | Define the prompt structure |
-| Sentiment crawling (no API) | backlog | Cheaply validating a niche idea using manual web crawling | Experiment with Firecrawl / manual |
+| Project | Status | Size | Impact | Priority | Post Angle | Next Action |
+|---------|--------|------|--------|----------|------------|-------------|
+| Sentiment crawling (no API) | backlog | S | 5 | 🔴 | Cheaply validating a niche idea using manual web crawling | Experiment with Firecrawl / manual |
+| Wireframe → polished UI pipeline | backlog | S | 4 | 🟡 | From Claude Design wireframe to production-ready look | TBD |
+| Automated Substack pipeline | backlog | M | 4 | 🟡 | How I semi-automate my newsletter with MD files + Claude | TBD |
 
 ---
 
-## Backlog — Joy Projects (Legitimate diversions — as long as building)
+## Backlog — Content
 
-| Project | Status | Post Angle | Next Action |
-|---------|--------|------------|-------------|
-| Motivational Miner | backlog | Culture jamming + game design — silly but real | TBD |
-| Trumpagotchi | backlog | TBD | TBD |
-| King of the Battlefield | backlog | TBD | TBD |
-| Survivor for the game industry | backlog | TBD | TBD |
-| Cut-ups | backlog | TBD | TBD |
+| Project | Status | Size | Impact | Priority | Post Angle | Next Action |
+|---------|--------|------|--------|----------|------------|-------------|
+| "Automate everything" Substack post | backlog | S | 5 | 🔴 | All the stages of game/app dev that should be automated — living post | Draft outline from tech-stack.md automation list |
+
+---
+
+## Backlog — Joy Projects (Ian persona — legitimate as long as building)
+
+| Project | Status | Size | Impact | Priority | Post Angle | Next Action |
+|---------|--------|------|--------|----------|------------|-------------|
+| Motivational Miner | backlog | M | 3 | 🟢 | Culture jamming + game design | TBD |
+| Trumpagotchi | backlog | S | 3 | 🟢 | TBD | TBD |
+| King of the Battlefield | backlog | L | 3 | 🟢 | TBD | TBD |
+| Survivor for the game industry | backlog | M | 3 | 🟢 | TBD | TBD |
+| Cut-ups | backlog | S | 2 | 🟢 | TBD | TBD |
 
 ---
 
 ## Backlog — Setup / Infrastructure
 
-| Project | Status | Post Angle | Next Action |
-|---------|--------|------------|-------------|
-| Set up Substack | backlog | — | Create account, set up profile |
-| Set up LinkedIn presence | backlog | — | Optimize profile for builder/contractor positioning |
-| Set up drops web page | backlog | — | Simple landing page with free app links + Substack CTA |
-| Set up Patreon | backlog | — | TBD — depends on audience traction |
+| Project | Status | Size | Impact | Priority | Post Angle | Next Action |
+|---------|--------|------|--------|----------|------------|-------------|
+| Set up Substack | backlog | XS | 5 | 🔴 | — | Create account, set up profile |
+| Set up LinkedIn presence | backlog | XS | 5 | 🔴 | — | Optimize profile for builder/contractor positioning |
+| Set up drops web page | backlog | S | 4 | 🟡 | — | Simple landing page: free app links + Substack CTA |
+| VC pitch deck | backlog | L | 5 | 🟡 | — | See strategy/vc-pitch-context.md — needs prototype first |
+| Set up Patreon | backlog | XS | 2 | 🟢 | — | Defer until audience traction |
 
 ---
 
