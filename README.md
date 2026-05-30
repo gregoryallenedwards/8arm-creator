@@ -15,11 +15,11 @@ This repo is the working brain behind the 8arm content and build operation. It c
 - **Builds** — project briefs for everything in the pipeline
 - **Content** — Substack drafts, published posts, LinkedIn drops
 - **Research** — Reddit communities, post topics, intelligence feeds, tech stack reference
-- **Experiments** — a running log of cheap validation experiments
+- **Experiments** — a running log of cheap validation and app building experiments
 
 ## Who I Am
 
-Game developer turned AI builder. I build apps, games, and automation tools — and post about the process. My audience is other builders and developers who want to see what's actually possible with AI tools today.
+Game developer turned AI builder. I build apps, games, and automation tools — and post about the process. I also explore methods using AI to validate, market, and promote games and apps. My audience is other builders and developers who want to see what's actually possible with AI tools today.
 
 Available for consulting, contracting, and building.
 
