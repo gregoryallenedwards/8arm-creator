@@ -4,6 +4,8 @@
 
 Building in public. Posting on Substack and LinkedIn.
 
+This repo is meant to stay private. 
+
 ---
 
 ## What This Is
