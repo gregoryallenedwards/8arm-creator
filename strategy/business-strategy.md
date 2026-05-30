@@ -79,8 +79,8 @@ Sell creative, fun, viral-friendly products directly to the content audience. Gr
 
 ## People
 
-- **Ian**: associates; Ian projects are legitimate diversions as long as building. Palantir war map to kick him off. Ian path to BTI depends on content creator success first.
-- **Alden**: path depends on content creator success first.
-- **BTI / Budget BTI**: the broader company/project umbrella.
-- **Adam**: potential conversation about fully automated game concept.
-- **Elena**: prospective pitch target (job or consultancy).
+- **Ian**: associates; Ian projects are legitimate diversions as long as building. Palantir war map to kick him off. Ian path to BTI depends on content creator success first. I am Ian. Ian is the bane i use for creative projects but specifically the apps and fiction that look 15 minutes into the future about the use of Ai.
+- **Allen**: projects that I create with the intent of working as a builder or starting a company that builds. 
+- **BTI / Budget BTI**: this is the goal of being able to do anything creative I want. it implies the capital to do so. Named from Donald Glovers Because the Internet recognizing the different media projects he is involved in.
+- **Adam**: potential conversation about fully automated game concept.Friend who has earned finding for a company. 
+- **Elena**: prospective pitch target (job or consultancy). the president of my.games, my current company as of this writing. 
