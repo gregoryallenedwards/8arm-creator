@@ -29,6 +29,8 @@ Running list of things Allen and/or Claude need to do. Review at the start of ea
 | 10 | Set up Substack | Allen | pending | Create account, set up profile, first post |
 | 11 | Set up LinkedIn presence | Allen | done | Already set up |
 | 12 | Set up drops web page | Allen | pending | Simple landing page: free app links + Substack CTA |
+| 15 | Update gregoryallenedwards.com strategy | Allen | pending | Figure out if we should kill the Vercel site entirely and just point the domain directly to Substack. |
+| 16 | Post on Eric Seufert's "The Prosperous Society" | Both | pending | Substack post analyzing this concept |
 
 ## 🟢 Low Priority
 
