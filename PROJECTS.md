@@ -94,9 +94,9 @@ _Nothing active yet. Pick one from backlog to start._
 
 | Project | Status | Size | Impact | Priority | Post Angle | Next Action |
 |---------|--------|------|--------|----------|------------|-------------|
-| Set up Substack | backlog | XS | 5 | 🔴 | — | Create account, set up profile |
-| Set up LinkedIn presence | backlog | XS | 5 | 🔴 | — | Optimize profile for builder/contractor positioning |
-| Set up drops web page | backlog | S | 4 | 🟡 | — | Simple landing page: free app links + Substack CTA |
+| Set up Substack | done | XS | 5 | — | — | Completed |
+| Set up LinkedIn presence | done | XS | 5 | — | — | Completed |
+| Set up drops web page | killed | S | 4 | — | — | Dropped — Domain pointed directly to Substack |
 | VC pitch deck | backlog | L | 5 | 🟡 | — | See strategy/vc-pitch-context.md — needs prototype first |
 | Set up Patreon | backlog | XS | 2 | 🟢 | — | Defer until audience traction |
 
