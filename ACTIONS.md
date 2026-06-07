@@ -21,10 +21,7 @@ Running list of things Allen and/or Claude need to do. Review at the start of ea
 
 | # | Action | Owner | Status | Notes |
 |---|--------|-------|--------|-------|
-
-| 7 | Write Substack post: "Everything you should be able to automate in game/app development" | Both | pending | Original note: "For all the platforms, where are the headaches and time wasters that an LLM could handle for us?" Post each stage — keep adding to it. |
 | 8 | Create build files for any projects in PROJECTS.md that don't have a brief in builds/backlog/ | Claude | pending | Run this check each session — see strategy/checklist.md |
-| 9 | Create VC pitch deck (slides) once context is solid | Both | pending | See strategy/vc-pitch-context.md for full outline. Needs vertical slice / prototype first. |
 
 ## 🟢 Low Priority
 
