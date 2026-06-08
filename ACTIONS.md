@@ -30,3 +30,4 @@ Running list of things Allen and/or Claude need to do. Review at the start of ea
 | 13 | Set up Patreon | Allen | pending | Defer until audience traction |
 | 14 | Define research file usage protocol | Claude | pending | How and when do we actively use reddit-communities.md, intelligence-feeds.md, post-topics.md? |
 | 15 | Explore Claude workflow consulting model | Allen | pending | Allen as consultant who builds custom Claude workflows for clients around a specific need. Coach-assisted, not autonomous. Comp: Three Day Rule's Tai (dating app) — expert-backed, end-to-end, $99/mo subscription framing |
+| 16 | If bored, go back to building fun things and games | Allen | pending | Default fallback when nothing else is pulling — build for the joy of it |
