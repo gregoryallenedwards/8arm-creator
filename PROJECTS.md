@@ -29,6 +29,8 @@ _Nothing active yet. Pick one from backlog to start._
 | Project | Status | Size | Impact | Priority | Post Angle | Next Action |
 |---------|--------|------|--------|----------|------------|-------------|
 | Gamified This 60 | backlog | M | 5 | 🔴 | Game developer applies LiveOps thinking to an ADHD focus app | Define core game loop on paper |
+| Match 3 Test | backlog | S | 3 | 🟡 | Match-3 prototype — web-first distribution | Build basic mechanic as web page |
+| Fishing Game | backlog | S | 3 | 🟡 | Fishing game prototype — web-first distribution | Build basic mechanic as web page |
 | Claude Decider Engine | backlog | S | 4 | 🔴 | I built a Claude agent that decides what to build next | Design the prompt structure |
 | Match 3 white label | backlog | XL | 5 | 🟡 | First fully AI-automated Match 3 — no studio, no engine lock-in | Pick one automation piece to demo first |
 | Bait & Tackle RPG Fishing | backlog | L | 3 | 🟢 | Idle fishing RPG — how far can one person get with AI tools | TBD |
