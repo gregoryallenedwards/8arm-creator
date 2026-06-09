@@ -18,6 +18,7 @@ Claude runs through this at the start of every session, in order, before decidin
 - [ ] Read ACTIONS.md
 - [ ] Are there any high-priority (🔴) items that can be moved forward today?
 - [ ] Are there any items that are now blocked or need clarification from Allen?
+- [ ] **Rule:** When Allen asks for "todos" or action items, always list EVERY active/backlog project from `PROJECTS.md` in addition to the items in `ACTIONS.md`. NEVER summarize, truncate, or hide any items. Show the complete, exhaustive list of everything.
 
 ## Step 4 — Build Files Check
 - [ ] Read PROJECTS.md

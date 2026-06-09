@@ -75,7 +75,7 @@ _Nothing active yet. Pick one from backlog to start._
 | Project | Status | Size | Impact | Priority | Post Angle | Next Action |
 |---------|--------|------|--------|----------|------------|-------------|
 | Antigravity Job App Pipeline | backlog | S | 4 | 🟡 | End-to-end automated job hunting: finding roles to generating PDF applications with Antigravity | Define pipeline steps and test capabilities |
-| Autonomous Job Hunt via Claude Cowork | backlog | S | 5 | 🟡 | Automating my job hunt using Claude Cowork so I can focus on art | Create outreach strategy with Fable |
+| Autonomous Job Hunt via Claude Cowork | backlog | S | 5 | 🟡 | Automating my job hunt by sending personalized messages to contacts rather than generating resumes | Create outreach strategy with Fable |
 | Wireframe → polished UI pipeline | backlog | S | 4 | 🟡 | From Claude Design wireframe to production-ready look | TBD |
 | Automated Substack pipeline | backlog | M | 4 | 🟡 | How I semi-automate my newsletter with MD files + Claude | TBD |
 
@@ -86,7 +86,7 @@ _Nothing active yet. Pick one from backlog to start._
 | Project | Status | Size | Impact | Priority | Post Angle | Next Action |
 |---------|--------|------|--------|----------|------------|-------------|
 | "Automate everything" Substack post | backlog | S | 5 | 🔴 | All the stages of game/app dev that should be automated — living post | Draft outline from tech-stack.md automation list |
-| Indie Dev Success Educator | backlog | XL | 5 | 🟡 | Selling training courses & monetizing YouTube by sharing real-world game dev tests | Outline channel strategy and first course curriculum |
+| Indie Dev Success Educator | backlog | XL | 5 | 🔴 | Content creator selling expertise as a publishing producer through training courses & YouTube | See [strategy/indie-educator-business-plan.md](strategy/indie-educator-business-plan.md) — start with Week 1 checklist |
 
 ---
 

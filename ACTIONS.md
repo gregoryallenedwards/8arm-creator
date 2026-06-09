@@ -2,6 +2,7 @@
 
 **Writing & Style Rules**
 - NEVER use em dashes. Use alternative phrasing or standard punctuation.
+- **Rule:** When asked for "todos", always list the active/backlog projects from `PROJECTS.md` in addition to the items in this file. NEVER summarize, truncate, or hide any items. Show the complete, exhaustive list of everything.
 
 Running list of things Allen and/or Claude need to do. Review at the start of each session.
 
@@ -21,7 +22,7 @@ _No high priority actions currently._
 
 | # | Action | Owner | Status | Notes |
 |---|--------|-------|--------|-------|
-| 18 | Have Opus or Fable review the Match 3 implementation plan | Both | pending | Use Opus or Fable to double-check the Match 3 test implementation plan before execution |
+| 18 | Have Opus or Fable review the Match 3 implementation plan | Both | done | Use Opus or Fable to double-check the Match 3 test implementation plan before execution |
 
 ## 🟢 Low Priority
 
