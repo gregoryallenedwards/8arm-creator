@@ -15,7 +15,7 @@ Running list of things Allen and/or Claude need to do. Review at the start of ea
 
 | # | Action | Owner | Status | Notes |
 |---|--------|-------|--------|-------|
-| 2 | Re-examine the validation engine: is it still the right moat or has the Gemini VC discussion changed it? | Both | pending | See strategy/vc-pitch-context.md and strategy/validation-engine.md |
+_No high priority actions currently._
 
 ## 🟡 Medium Priority
 

@@ -31,7 +31,7 @@ _Nothing active yet. Pick one from backlog to start._
 | Gamified This 60 | backlog | M | 5 | 🔴 | Game developer applies LiveOps thinking to an ADHD focus app | Define core game loop on paper |
 | Match 3 Test | backlog | S | 3 | 🟡 | Match-3 prototype — web-first distribution | Build basic mechanic as web page |
 | Fishing Game | backlog | S | 3 | 🟡 | Fishing game prototype — web-first distribution | Build basic mechanic as web page |
-| Claude Decider Engine | backlog | S | 4 | 🔴 | I built a Claude agent that decides what to build next | Design the prompt structure |
+| Claude Decider Engine | killed | S | 4 | — | I built a Claude agent that decides what to build next | Killed per Allen's instruction |
 | Match 3 white label | backlog | XL | 5 | 🟡 | First fully AI-automated Match 3 — no studio, no engine lock-in | Pick one automation piece to demo first |
 | Bait & Tackle RPG Fishing | backlog | L | 3 | 🟢 | Idle fishing RPG — how far can one person get with AI tools | TBD |
 | Casino game | backlog | M | 3 | 🟢 | Building a casino game in public — RNG and economy design | TBD |
@@ -42,7 +42,7 @@ _Nothing active yet. Pick one from backlog to start._
 
 | Project | Status | Size | Impact | Priority | Post Angle | Next Action |
 |---------|--------|------|--------|----------|------------|-------------|
-| Corporate apology generator | backlog | XS | 4 | 🔴 | Satirical tool — MSCHF-style drop for r/InternetIsBeautiful | Scope the tool, pick the community |
+| Corporate apology generator | killed | XS | 4 | — | Satirical tool — MSCHF-style drop for r/InternetIsBeautiful | Killed by Allen |
 | Digital Nomad visa reset timer | backlog | XS | 4 | 🔴 | Built a free tool for r/digitalnomad in 3 hours | Define the tool, pick the Reddit |
 | Wellness Toxifier | backlog | S | 4 | 🟡 | Parody wellness app — drops to r/ofcoursethatsathing | TBD |
 | Gamified anxiety audit | backlog | S | 3 | 🟡 | Culture jamming wellness apps with their own mechanics | TBD |
@@ -66,7 +66,7 @@ _Nothing active yet. Pick one from backlog to start._
 
 | Project | Status | Size | Impact | Priority | Post Angle | Next Action |
 |---------|--------|------|--------|----------|------------|-------------|
-| Sentiment crawling (no API) | backlog | S | 5 | 🔴 | Cheaply validating a niche idea using manual web crawling | Experiment with Firecrawl / manual |
+
 | Wireframe → polished UI pipeline | backlog | S | 4 | 🟡 | From Claude Design wireframe to production-ready look | TBD |
 | Automated Substack pipeline | backlog | M | 4 | 🟡 | How I semi-automate my newsletter with MD files + Claude | TBD |
 
@@ -112,4 +112,4 @@ _Nothing posted yet._
 
 ## Done
 
-_Nothing done yet._
+| Sentiment crawling (no API) | done | S | 5 | — | Cheaply validating a niche idea using manual web crawling | Completed |
