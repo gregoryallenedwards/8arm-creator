@@ -18,7 +18,7 @@ Status: `idea` | `drafted` | `published`
 - [ ] The APK dance problem: avoiding stuck builds without debug info
 - [ ] Can Claude get runtime debug info from a live app?
 - [ ] Automated store page population — screenshots, videos, metadata
-
+- [ ] idea: Sandboxing LLM code execution: How to safely let agents write and run code (MicroPython + WASM)
 ## Validation & Community
 
 - [ ] I tried to validate a niche idea without spending money — here's what I did
@@ -46,7 +46,7 @@ Status: `idea` | `drafted` | `published`
 - [ ] Local SLM vs. cloud API: when does it make sense to run on-device?
 - [ ] Flutter + DEX: building for the desktop-on-phone use case
 - [ ] Firebase rules: understanding what the app is and setting appropriate rules
-
+- [ ] idea: The 'Lethal Trifecta' of Prompt Injection and how to cut off data exfiltration
 ## Business / Contractor Positioning
 
 - [ ] Allen is a contractor: build your app, consult, spark, or teach
@@ -54,7 +54,7 @@ Status: `idea` | `drafted` | `published`
 - [ ] "You are going to have your lunch eaten" — pitching AI-first development to legacy orgs
 - [ ] The 1-person execution factory: solo builder vs. traditional dev shop
 - [ ] Why I give free apps to communities (and what I get back)
-
+- [ ] idea: The $1,500 AI Budget: Why enterprises are capping coding agents and why solo builders have the advantage
 ## Intelligence Feeds (Source Material for Posts)
 
 See `intelligence-feeds.md` for the full list of sources to monitor.
