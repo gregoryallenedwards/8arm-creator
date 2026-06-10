@@ -1,5 +1,7 @@
 # Business Strategy
 
+> **SUPERSEDED WHERE IN CONFLICT:** As of 2026-06-10, the canonical plan is [PLAN.md](PLAN.md). This file is kept for operating detail (distribution methods, crown jewels, people). The "content creator first" priority below is now a METHOD in service of the Claim in PLAN.md, not the goal itself.
+
 ## Priority Order (strict)
 
 1. **Content creator first** — everything else flows from this

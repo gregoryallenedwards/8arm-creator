@@ -30,10 +30,15 @@ Available for consulting, contracting, and building.
 ## Repo Structure
 
 ```
-├── PROJECTS.md          ← master project list (single source of truth)
-├── strategy/            ← business strategy + operating principles
+├── PROTOCOL.md          ← custodian manual: how any model must operate in this repo
+├── PROJECTS.md          ← master project list (single source of truth for projects)
+├── strategy/
+│   ├── PLAN.md          ← CANONICAL PLAN: the Claim, milestones, decision rules (wins all conflicts)
+│   └── ...              ← business strategy + operating principles
 ├── builds/              ← project briefs (backlog / active / posted)
 ├── content/             ← Substack drafts + published posts + LinkedIn
 ├── research/            ← reddit communities, post topics, feeds, tech stack
 └── experiments/         ← running log of validation experiments
 ```
+
+**For any model working here:** read `PROTOCOL.md` first, then `strategy/PLAN.md`. Enforce the plan; don't reinvent it.

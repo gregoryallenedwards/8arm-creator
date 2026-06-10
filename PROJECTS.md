@@ -16,6 +16,8 @@
 
 > Priority formula: High impact + small size = 🔴. High impact + large size = 🟡. Low impact = 🟢.
 
+> **2026-06-10:** Priorities re-scored against the Claim in [strategy/PLAN.md](strategy/PLAN.md) using the PROTOCOL.md fit check. Statuses untouched; Allen decides all status changes. Flagship decision due 2026-06-30.
+
 ---
 
 ## Active
@@ -28,11 +30,11 @@ _Nothing active yet. Pick one from backlog to start._
 
 | Project | Status | Size | Impact | Priority | Post Angle | Next Action |
 |---------|--------|------|--------|----------|------------|-------------|
-| Gamified This 60 | backlog | M | 5 | 🔴 | Game developer applies LiveOps thinking to an ADHD focus app | Define core game loop on paper |
-| Match 3 Test | backlog | S | 3 | 🟡 | Match-3 prototype — web-first distribution | Build basic mechanic as web page |
-| Fishing Game | backlog | S | 3 | 🟡 | Fishing game prototype — web-first distribution | Build basic mechanic as web page |
+| Gamified This 60 | backlog | M | 4 | 🟡 | Game developer applies LiveOps thinking to an ADHD focus app | Fit check: app, not a shipped game; tweak toward Claim or defer |
+| Match 3 Test | backlog | S | 4 | 🔴 | Match-3 prototype — web-first distribution | First step toward flagship; build basic mechanic as web page |
+| Fishing Game | backlog | S | 3 | 🟢 | Fishing game prototype — web-first distribution | Duplicate path to flagship; revisit if Match 3 stalls |
 | Claude Decider Engine | killed | S | 4 | — | I built a Claude agent that decides what to build next | Killed per Allen's instruction |
-| Match 3 white label | backlog | XL | 5 | 🟡 | First fully AI-automated Match 3 — no studio, no engine lock-in | Pick one automation piece to demo first |
+| Match 3 white label | backlog | XL | 5 | 🔴 | First fully AI-automated Match 3 — no studio, no engine lock-in | Leading flagship candidate (PLAN.md, decide by 2026-06-30) |
 | Bait & Tackle RPG Fishing | backlog | L | 3 | 🟢 | Idle fishing RPG — how far can one person get with AI tools | TBD |
 | Casino game | backlog | M | 3 | 🟢 | Building a casino game in public — RNG and economy design | TBD |
 
@@ -43,10 +45,10 @@ _Nothing active yet. Pick one from backlog to start._
 | Project | Status | Size | Impact | Priority | Post Angle | Next Action |
 |---------|--------|------|--------|----------|------------|-------------|
 | Corporate apology generator | killed | XS | 4 | — | Satirical tool — MSCHF-style drop for r/InternetIsBeautiful | Killed by Allen |
-| Digital Nomad visa reset timer | backlog | XS | 4 | 🔴 | Built a free tool for r/digitalnomad in 3 hours | Define the tool, pick the Reddit |
-| Wellness Toxifier | backlog | S | 4 | 🟡 | Parody wellness app — drops to r/ofcoursethatsathing | TBD |
-| Gamified anxiety audit | backlog | S | 3 | 🟡 | Culture jamming wellness apps with their own mechanics | TBD |
-| Work day overlap calculator | backlog | XS | 3 | 🟡 | Solving remote team timezone pain | TBD |
+| Digital Nomad visa reset timer | backlog | XS | 2 | 🟢 | Built a free tool for r/digitalnomad in 3 hours | Off the Claim; filler only |
+| Wellness Toxifier | backlog | S | 2 | 🟢 | Parody wellness app — drops to r/ofcoursethatsathing | Off the Claim; filler only |
+| Gamified anxiety audit | backlog | S | 2 | 🟢 | Culture jamming wellness apps with their own mechanics | Off the Claim; filler only |
+| Work day overlap calculator | backlog | XS | 2 | 🟢 | Solving remote team timezone pain | Off the Claim; filler only |
 | Headcount burn rate calculator | backlog | XS | 3 | 🟢 | Free tool for startup ops | TBD |
 
 ---
@@ -66,7 +68,7 @@ _Nothing active yet. Pick one from backlog to start._
 
 | Project | Status | Size | Impact | Priority | Post Angle | Next Action |
 |---------|--------|------|--------|----------|------------|-------------|
-| AI Prompt Generator & Cloud MD Git | backlog | L | 5 | 🟡 | Building a BYOK prompt SaaS with abstracted git persistence for non-technical users | Define the system architecture and core prompt loop |
+| AI Prompt Generator & Cloud MD Git | backlog | L | 3 | 🟢 | Building a BYOK prompt SaaS with abstracted git persistence for non-technical users | Off the Claim (not games); revisit in Phase 2 |
 
 ---
 
@@ -86,7 +88,7 @@ _Nothing active yet. Pick one from backlog to start._
 | Project | Status | Size | Impact | Priority | Post Angle | Next Action |
 |---------|--------|------|--------|----------|------------|-------------|
 | "Automate everything" Substack post | backlog | S | 5 | 🔴 | All the stages of game/app dev that should be automated — living post | Draft outline from tech-stack.md automation list |
-| Indie Dev Success Educator | backlog | XL | 5 | 🔴 | Content creator selling expertise as a publishing producer through training courses & YouTube | See [strategy/indie-educator-business-plan.md](strategy/indie-educator-business-plan.md) — start with Week 1 checklist |
+| Indie Dev Success Educator | backlog | XL | 5 | 🟡 | Content creator selling expertise as a publishing producer through training courses & YouTube | Phase 2 vehicle; needs audience + shipped flagship first (PLAN.md) |
 
 ---
 
