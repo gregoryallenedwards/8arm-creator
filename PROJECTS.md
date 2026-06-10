@@ -22,7 +22,9 @@
 
 ## Active
 
-_Nothing active yet. Pick one from backlog to start._
+| Project | Status | Size | Impact | Priority | Post Angle | Next Action |
+|---------|--------|------|--------|----------|------------|-------------|
+| Match 3 white label | active | XL | 5 | 🔴 | First fully AI-automated Match 3 — no studio, no engine lock-in | Build full game; core loop validated by Match 3 Test. |
 
 ---
 
@@ -31,10 +33,9 @@ _Nothing active yet. Pick one from backlog to start._
 | Project | Status | Size | Impact | Priority | Post Angle | Next Action |
 |---------|--------|------|--------|----------|------------|-------------|
 | Gamified This 60 | backlog | M | 4 | 🟡 | Game developer applies LiveOps thinking to an ADHD focus app | Fit check: app, not a shipped game; tweak toward Claim or defer |
-| Match 3 Test | backlog | S | 4 | 🔴 | Match-3 prototype — web-first distribution | First step toward flagship; build basic mechanic as web page |
 | Fishing Game | backlog | S | 3 | 🟢 | Fishing game prototype — web-first distribution | Duplicate path to flagship; revisit if Match 3 stalls |
 | Claude Decider Engine | killed | S | 4 | — | I built a Claude agent that decides what to build next | Killed per Allen's instruction |
-| Match 3 white label | backlog | XL | 5 | 🔴 | First fully AI-automated Match 3 — no studio, no engine lock-in | Leading flagship candidate (PLAN.md, decide by 2026-06-30) |
+| Match 3 white label | active | XL | 5 | 🔴 | First fully AI-automated Match 3 — no studio, no engine lock-in | (moved to Active) |
 | Bait & Tackle RPG Fishing | backlog | L | 3 | 🟢 | Idle fishing RPG — how far can one person get with AI tools | TBD |
 | Casino game | backlog | M | 3 | 🟢 | Building a casino game in public — RNG and economy design | TBD |
 
@@ -57,9 +58,9 @@ _Nothing active yet. Pick one from backlog to start._
 
 | Project | Status | Size | Impact | Priority | Post Angle | Next Action |
 |---------|--------|------|--------|----------|------------|-------------|
-| Mobile dev with phone (DEX + XReal) | backlog | M | 5 | 🟡 | How far can you get as a developer with just a mobile phone | Outline the experiment |
-| Firecrawl integration demo | backlog | S | 4 | 🟡 | Using Firecrawl for cheap sentiment crawling | TBD |
-| GitHub Actions CI/CD demo | backlog | S | 4 | 🟡 | Automating my build pipeline | TBD |
+| Mobile dev with phone (DEX + XReal) | killed | M | 5 | — | How far can you get as a developer with just a mobile phone | Killed by Allen |
+| Firecrawl integration demo | killed | S | 4 | — | Using Firecrawl for cheap sentiment crawling | Killed by Allen |
+| GitHub Actions CI/CD demo | killed | S | 4 | — | Automating my build pipeline | Killed by Allen |
 | Stripe web billing demo | backlog | S | 3 | 🟢 | Wiring Stripe into a web app in one session | TBD |
 
 ---
@@ -76,9 +77,9 @@ _Nothing active yet. Pick one from backlog to start._
 
 | Project | Status | Size | Impact | Priority | Post Angle | Next Action |
 |---------|--------|------|--------|----------|------------|-------------|
-| Antigravity Job App Pipeline | backlog | S | 4 | 🟡 | End-to-end automated job hunting: finding roles to generating PDF applications with Antigravity | Define pipeline steps and test capabilities |
-| Autonomous Job Hunt via Claude Cowork | backlog | S | 5 | 🟡 | Automating my job hunt by sending personalized messages to contacts rather than generating resumes | Create outreach strategy with Fable |
-| Wireframe → polished UI pipeline | backlog | S | 4 | 🟡 | From Claude Design wireframe to production-ready look | TBD |
+| Antigravity Job App Pipeline | done | S | 4 | — | End-to-end automated job hunting: finding roles to generating PDF applications with Antigravity | Completed |
+| Autonomous Job Hunt via Claude Cowork | done | S | 5 | — | Automating my job hunt by sending personalized messages to contacts rather than generating resumes | Completed |
+| Wireframe → polished UI pipeline | killed | S | 4 | — | From Claude Design wireframe to production-ready look | Killed by Allen |
 | Automated Substack pipeline | backlog | M | 4 | 🟡 | How I semi-automate my newsletter with MD files + Claude | TBD |
 
 ---
@@ -87,7 +88,7 @@ _Nothing active yet. Pick one from backlog to start._
 
 | Project | Status | Size | Impact | Priority | Post Angle | Next Action |
 |---------|--------|------|--------|----------|------------|-------------|
-| "Automate everything" Substack post | backlog | S | 5 | 🔴 | All the stages of game/app dev that should be automated — living post | Draft outline from tech-stack.md automation list |
+| "Automate everything" Substack post | killed | S | 5 | — | All the stages of game/app dev that should be automated — living post | Killed by Allen |
 | Indie Dev Success Educator | backlog | XL | 5 | 🟡 | Content creator selling expertise as a publishing producer through training courses & YouTube | Phase 2 vehicle; needs audience + shipped flagship first (PLAN.md) |
 
 ---
@@ -111,7 +112,7 @@ _Nothing active yet. Pick one from backlog to start._
 | Set up Substack | done | XS | 5 | — | — | Completed |
 | Set up LinkedIn presence | done | XS | 5 | — | — | Completed |
 | Set up drops web page | killed | S | 4 | — | — | Dropped — Domain pointed directly to Substack |
-| VC pitch deck | backlog | L | 5 | 🟡 | — | See strategy/vc-pitch-context.md — needs prototype first |
+| VC pitch deck | killed | L | 5 | — | — | Killed by Allen |
 | Set up Patreon | backlog | XS | 2 | 🟢 | — | Defer until audience traction |
 
 ---
@@ -125,3 +126,6 @@ _Nothing posted yet._
 ## Done
 
 | Sentiment crawling (no API) | done | S | 5 | — | Cheaply validating a niche idea using manual web crawling | Completed |
+| Match 3 Test | done | S | 4 | — | Match-3 prototype — web-first distribution | Completed 2026-06-10 |
+| Antigravity Job App Pipeline | done | S | 4 | — | End-to-end automated job hunting | Completed |
+| Autonomous Job Hunt via Claude Cowork | done | S | 5 | — | Automating job hunt via personalized outreach | Completed |

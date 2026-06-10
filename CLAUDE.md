@@ -10,6 +10,6 @@ The canonical strategy lives in `strategy/PLAN.md`. Enforce it; do not reinvent 
 
 - **Date:** 2026-06-10
 - **Branch:** main
-- **What was done:** Added /wrap and /sync Claude Code skills; oriented at session start, no substantive code changes.
-- **Open questions:** None
-- **Next action:** Review strategy/PLAN.md and pick the next priority action.
+- **What was done:** Confirmed Match 3 white-label as flagship (marked ✅ in PLAN.md). Cleaned up PROJECTS.md: Match 3 Test marked done, Match 3 white-label moved to active, killed Firecrawl/GitHub Actions/Wireframe pipeline/VC pitch deck/Mobile dev with phone, marked Antigravity and Autonomous Job Hunt as done.
+- **Open questions:** First public post angle — leaning toward Match 3 build story, write in early July once flagship has more substance.
+- **Next action:** Start Match 3 white-label build.

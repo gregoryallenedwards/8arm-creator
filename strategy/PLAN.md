@@ -37,7 +37,7 @@ Goal: one flagship shipped artifact plus a public posting record that together p
 
 | Date | Milestone | Done? |
 |------|-----------|-------|
-| 2026-06-30 | Flagship build chosen: ONE game, shippable solo with AI by year end. Leading candidates: Match 3 white label (with Match 3 Test as its first step) | |
+| 2026-06-30 | Flagship build chosen: ONE game, shippable solo with AI by year end. Leading candidates: Match 3 white label (with Match 3 Test as its first step) | ✅ Decided 2026-06-10: Match 3 white label confirmed. |
 | 2026-07-15 | First public post published (chapter 1 of the story) | |
 | 2026-07-15 → | Sustained cadence: at least 1 post per week | |
 | 2026-09-01 | US relocation decision made (city, timing, logistics) | |
