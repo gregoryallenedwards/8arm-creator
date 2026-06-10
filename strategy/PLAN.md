@@ -27,7 +27,9 @@ Financial objective: maximize total income January 2027 through December 2037. A
 
 ---
 
-## Phases and Milestones
+## Phases and Milestones (the roadmap)
+
+This section IS the roadmap. There is no separate roadmap file.
 
 ### Phase 0: Build the proof (now through Dec 31, 2026, while salaried)
 
