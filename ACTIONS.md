@@ -22,7 +22,7 @@ _No high priority actions currently._
 
 | # | Action | Owner | Status | Notes |
 |---|--------|-------|--------|-------|
-| 18 | Have Opus or Fable review the Match 3 implementation plan | Both | done | Use Opus or Fable to double-check the Match 3 test implementation plan before execution |
+_No medium priority actions currently._
 
 ## 🟢 Low Priority
 
