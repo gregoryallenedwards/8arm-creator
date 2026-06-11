@@ -10,7 +10,7 @@ I want to add a new category. the category is called Fable. I might refer to it 
 
 clothing: this is a fable task. I want to talk to fable about how to improve my general dress especially in cold weather. the general look should be buiness casual. 
 
-
+I want to add a high priority action called the Perennial Praxis. I have a Claude doc open on this where I'm talking about how it pulls in practices from other religions. The concept is really compelling to me. I'm aware that it's completely off-base from the other priorities for this effort, but I want to strongly consider this as something I can do as a side item. It's just something that very much interests and excites me, so please don't lose it and keep it as a high priority item.
 
 
 _(Empty — nothing to process)_
