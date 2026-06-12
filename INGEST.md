@@ -20,6 +20,28 @@ a producer workflow. new invoices. putting together an external brief. figure ou
 what do we call the intersection of producer and ai buoilder. ask claude
 
 
+Action items: A producer workflow. All the potential email or requests that might producing got. The last mile adapted to your time. Allows you to reduce the number of producer heads especially for data handling and small tasks. But this also helps get a brief together. It can also pick from an MCP Of available vendors and get quick feedback on availability.
+
+REminder: The Match 3 promotion is I make a full free to play and live Ops supported game with Al tools and it makes money.
+
+Discoverability will be a challenge but so much of this work will be to understand how to address with technology for marketing and a process to create product market fit.
+
+Action item: with Claude the idea that I am selling my experience as a repo. what repos. what monetization? And does this go beyond game advice? Is there room for these leashed agents to do things like expat taxes, etc? Does that then mean that it always needs to be behind a presentation layer et a web page? How do we allow people to easily get their data into the LLM? It can't just be the information. it also has to be the work flow process that knows how to walk someone through the right way to do it.
+
+Action item: this 60 MCP. If you do something in an LLM you can change an item or you can poke a new item. inside of This 60 You can choose a Park actin and it will go to the LLM.
+
+Action item: start the LLC today. Its for my consulting but also this is where all the efforts got published. And insert on my resume as this. I am me on web. Linkanjond substark, but the LLC on resume and for business. Only the new experiments go onto this business.
+
+
+
+-action: article on workdeck
+
+Action: Create an Opus/Fable Substack generator not unlike validation project. but it includes a step where it puts the article into my voice. Idea as well that these steps maybe can be triggered as emails and responses back to the agentic behaviors.
+
+
+
+Action: Fable the topics and experiments. the things I need to write for topics on substack
+
 
 
 _(Empty — nothing to process)_
