@@ -16,7 +16,7 @@ Running list of things Allen and/or Claude need to do. Review at the start of ea
 
 | # | Action | Owner | Status | Notes |
 |---|--------|-------|--------|-------|
-_No high priority actions currently._
+| 18 | Substack articles and experiments | Both | pending | Consolidated article-creation todos. Full line items in `substack-articles-and-experiments.md` (moved from INGEST.md) |
 
 ## 🟡 Medium Priority
 
