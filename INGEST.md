@@ -52,18 +52,13 @@ Action: the below is a todo that is to be worked out that will first establish s
 
 Action: add this to the existing This 60 MCP concept, and if you can’t find that action item, create this new one.
 
-This 60, the todo list for AI power users.
-
-Maybe even put this one into validation as a top contender.
-
-This sort of ties into the mcp idea. The ai friendly todo list.
-
-The idea is that I may have chats in .. well like my repos. So an entire repo for parked that comes up as a reminder once a week. I want to click on that.
-
-And then I have talks in Antigravity and I have them in claude. And there might be two separate todos that are really one thing and i want to merge them. So the mcp figures all that out and spits back a single merged item that closes the previous two items and now that lives on just Claude alone. 
-
-Or it has existed on claude and you want to migrate it, so you push the antigravity button and now Gemini is burning on that problem for you cheaply. Even better if you give it commands that are saying for each of the job search items, get them up to the md phase then stop.
-
+-This 60, the todo list for AI power users.
+-Maybe even put this one into validation as a top contender.
+-This sort of ties into the mcp idea. The ai friendly todo list.
+-The idea is that I may have chats in .. well like my repos. So an entire repo for parked that comes up as a reminder once a week. I want to click on that.
+-And then I have talks in Antigravity and I have them in claude. And there might be two separate todos that are really one thing and i want to merge them. So the mcp figures all that out and spits back a single merged item that closes the previous two items and now that lives on just Claude alone. 
+-Or it has existed on claude and you want to migrate it, so you push the antigravity button and now Gemini is burning on that problem for you cheaply. Even better if you give it commands that are saying for each of the job search items, get them up to the md phase then stop.
+-that itbmist be connected to your git repo. probably github only. and you can choose which repo in the issue to tie it to
 
 
 _(Empty — nothing to process)_
