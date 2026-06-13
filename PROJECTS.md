@@ -81,6 +81,20 @@
 | Autonomous Job Hunt via Claude Cowork | done | S | 5 | — | Automating my job hunt by sending personalized messages to contacts rather than generating resumes | Completed |
 | Wireframe → polished UI pipeline | killed | S | 4 | — | From Claude Design wireframe to production-ready look | Killed by Allen |
 | Automated Substack pipeline | backlog | M | 4 | 🟡 | How I semi-automate my newsletter with MD files + Claude | TBD |
+| This 60 MCP | backlog | L | 4 | 🟡 | AI-native todo list for power users: merges scattered todos across repos and chats, migrates items between LLMs, ties to GitHub issues | Expand concept; run fit check before building. Also candidate for Validation. |
+| Opus/Fable Substack generator | backlog | M | 3 | 🟢 | Article pipeline that includes a step to rewrite into Allen's voice; steps triggerable as email/agentic responses | TBD |
+
+---
+
+## Fable Bucket (send to Fable 5 when credits are spare)
+
+> Not part of the normal culling process. Fun or serious problems Allen wants to explore with Fable 5. Never displace flagship or side projects.
+
+| Item | Notes |
+|------|-------|
+| Clothing / cold-weather business casual style | Talk to Fable about improving general dress in cold weather. Business casual look. |
+| What do we call the intersection of producer and AI builder | Ask Fable to name and frame this position. |
+| Fable the topics and experiments | Send 8-Arm content and experiment files to Fable; have it identify Substack topics and experiments worth pursuing. |
 
 ---
 
