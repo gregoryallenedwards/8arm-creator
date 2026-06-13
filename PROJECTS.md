@@ -32,7 +32,6 @@
 
 | Project | Status | Size | Impact | Priority | Post Angle | Next Action |
 |---------|--------|------|--------|----------|------------|-------------|
-| Gamified This 60 | backlog | M | 4 | 🟡 | Game developer applies LiveOps thinking to an ADHD focus app | Fit check: app, not a shipped game; tweak toward Claim or defer |
 | Fishing Game | backlog | S | 3 | 🟢 | Fishing game prototype — web-first distribution | Duplicate path to flagship; revisit if Match 3 stalls |
 | Claude Decider Engine | killed | S | 4 | — | I built a Claude agent that decides what to build next | Killed per Allen's instruction |
 | Match 3 white label | active | XL | 5 | 🔴 | First fully AI-automated Match 3 — no studio, no engine lock-in | (moved to Active) |
@@ -81,7 +80,7 @@
 | Autonomous Job Hunt via Claude Cowork | done | S | 5 | — | Automating my job hunt by sending personalized messages to contacts rather than generating resumes | Completed |
 | Wireframe → polished UI pipeline | killed | S | 4 | — | From Claude Design wireframe to production-ready look | Killed by Allen |
 | Automated Substack pipeline | backlog | M | 4 | 🟡 | How I semi-automate my newsletter with MD files + Claude | TBD |
-| This 60 MCP | backlog | L | 4 | 🟡 | AI-native todo list for power users: merges scattered todos across repos and chats, migrates items between LLMs, ties to GitHub issues | Expand concept; run fit check before building. Also candidate for Validation. |
+| This 60 MCP | backlog | L | 4 | 🔴 | AI-native todo list for power users: merges scattered todos across repos and chats, migrates items between LLMs, ties to GitHub issues | Expand concept; run fit check before building. Also candidate for Validation. |
 | Opus/Fable Substack generator | backlog | M | 3 | 🟢 | Article pipeline that includes a step to rewrite into Allen's voice; steps triggerable as email/agentic responses | TBD |
 
 ---
@@ -127,7 +126,6 @@
 | Set up LinkedIn presence | done | XS | 5 | — | — | Completed |
 | Set up drops web page | killed | S | 4 | — | — | Dropped — Domain pointed directly to Substack |
 | VC pitch deck | killed | L | 5 | — | — | Killed by Allen |
-| Set up Patreon | backlog | XS | 2 | 🟢 | — | Defer until audience traction |
 
 ---
 

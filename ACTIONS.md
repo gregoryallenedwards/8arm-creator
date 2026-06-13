@@ -18,6 +18,7 @@ Running list of things Allen and/or Claude need to do. Review at the start of ea
 |---|--------|-------|--------|-------|
 | 18 | Substack articles and experiments | Both | pending | Consolidated article-creation todos. Full line items in `substack-articles-and-experiments.md` (moved from INGEST.md) |
 | 19 | Perennial Praxis | Allen | pending | Side project: pulling practices from multiple religions into a unified personal practice system. Strongly interests Allen; keep it alive as a legitimate side item, never displacing flagship. |
+| 24 | Move projects to article repo | Both | pending | Move most of these to the article repo |
 
 ## 🟡 Medium Priority
 
