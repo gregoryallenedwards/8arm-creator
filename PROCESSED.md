@@ -26,6 +26,14 @@ Items moved here after being acted on from INGEST.md.
 
 **Processed from INGEST.md:**
 - ✅ Consolidated 5 article-creation items (article on workdeck; Opus/Fable Substack generator; Fable the topics and experiments; Focus on articles have Claude help; articles-define-who-I-am to cover letters) into new high-priority file `substack-articles-and-experiments.md`. Registered as Action #18 in ACTIONS.md.
+- ✅ Perennial Praxis: added as ACTIONS.md #19, 🔴 High Priority, pending.
+- ✅ Fable category: created "Fable Bucket" section in PROJECTS.md with 3 items (clothing, producer+AI builder position, topics/experiments).
+- ✅ Producer workflow: added as ACTIONS.md #20, 🟡 Medium Priority, pending.
+- ✅ Discoverability strategy: added as ACTIONS.md #21, 🟡 Medium Priority, pending.
+- ✅ Selling experience as a repo: added as ACTIONS.md #22, 🟡 Medium Priority, pending.
+- ✅ This 60 MCP: added to PROJECTS.md Backlog — Automation/Experiments.
+- ✅ Consider removing/narrowing Validation: added as ACTIONS.md #23, 🟡 Medium Priority, pending Allen's decision.
+- ✅ Start the LLC: noted in INGEST; deferred to Parked per Allen's session note.
 
 ## Session: 2026-05-31
 
