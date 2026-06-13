@@ -22,6 +22,11 @@ Items moved here after being acted on from INGEST.md.
 - ✅ Captured Gemini VC pitch discussion in strategy/vc-pitch-context.md
 - ✅ Updated memory with Antigravity, Ian/Allen persona clarification, VC pitch thesis, Elena/Adam context
 
+## Session: 2026-06-13
+
+**Processed from INGEST.md:**
+- ✅ Consolidated 5 article-creation items (article on workdeck; Opus/Fable Substack generator; Fable the topics and experiments; Focus on articles have Claude help; articles-define-who-I-am to cover letters) into new high-priority file `substack-articles-and-experiments.md`. Registered as Action #18 in ACTIONS.md.
+
 ## Session: 2026-05-31
 
 **Completed Actions:**
