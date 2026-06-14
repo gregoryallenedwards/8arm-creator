@@ -1,0 +1,8 @@
+{
+  "meta": {
+    "version": 1,
+    "post_targets": ["substack"],
+    "gates": { "employer-specific": "2027-01-01", "commercial": "2027-01-01" }
+  },
+  "articles": []
+}
