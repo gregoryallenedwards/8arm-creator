@@ -44,12 +44,8 @@
 
 | Project | Status | Size | Impact | Priority | Post Angle | Next Action |
 |---------|--------|------|--------|----------|------------|-------------|
-| Corporate apology generator | killed | XS | 4 | — | Satirical tool — MSCHF-style drop for r/InternetIsBeautiful | Killed by Allen |
-| Digital Nomad visa reset timer | backlog | XS | 2 | 🟢 | Built a free tool for r/digitalnomad in 3 hours | Off the Claim; filler only |
-| Wellness Toxifier | backlog | S | 2 | 🟢 | Parody wellness app — drops to r/ofcoursethatsathing | Off the Claim; filler only |
+| Corporate apology generator | killed | XS | 4 | — | Satirical tool, MSCHF-style drop for r/InternetIsBeautiful | Killed by Allen |
 | Gamified anxiety audit | backlog | S | 2 | 🟢 | Culture jamming wellness apps with their own mechanics | Off the Claim; filler only |
-| Work day overlap calculator | backlog | XS | 2 | 🟢 | Solving remote team timezone pain | Off the Claim; filler only |
-| Headcount burn rate calculator | backlog | XS | 3 | 🟢 | Free tool for startup ops | TBD |
 
 ---
 
@@ -61,14 +57,6 @@
 | Firecrawl integration demo | killed | S | 4 | — | Using Firecrawl for cheap sentiment crawling | Killed by Allen |
 | GitHub Actions CI/CD demo | killed | S | 4 | — | Automating my build pipeline | Killed by Allen |
 | Stripe web billing demo | backlog | S | 3 | 🟢 | Wiring Stripe into a web app in one session | TBD |
-
----
-
-## Backlog — SaaS / Subscription Apps
-
-| Project | Status | Size | Impact | Priority | Post Angle | Next Action |
-|---------|--------|------|--------|----------|------------|-------------|
-| AI Prompt Generator & Cloud MD Git | backlog | L | 3 | 🟢 | Building a BYOK prompt SaaS with abstracted git persistence for non-technical users | Off the Claim (not games); revisit in Phase 2 |
 
 ---
 
@@ -91,8 +79,6 @@
 
 | Item | Notes |
 |------|-------|
-| Clothing / cold-weather business casual style | Talk to Fable about improving general dress in cold weather. Business casual look. |
-| What do we call the intersection of producer and AI builder | Ask Fable to name and frame this position. |
 | Fable the topics and experiments | Send 8-Arm content and experiment files to Fable; have it identify Substack topics and experiments worth pursuing. |
 
 ---
@@ -101,8 +87,7 @@
 
 | Project | Status | Size | Impact | Priority | Post Angle | Next Action |
 |---------|--------|------|--------|----------|------------|-------------|
-| "Automate everything" Substack post | killed | S | 5 | — | All the stages of game/app dev that should be automated — living post | Killed by Allen |
-| Indie Dev Success Educator | backlog | XL | 5 | 🟡 | Content creator selling expertise as a publishing producer through training courses & YouTube | Phase 2 vehicle; needs audience + shipped flagship first (PLAN.md) |
+| "Automate everything" Substack post | killed | S | 5 | — | All the stages of game/app dev that should be automated, living post | Killed by Allen |
 
 ---
 
