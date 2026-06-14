@@ -24,7 +24,7 @@ Source of truth: `articles/PIPELINE.md`. Read it before doing any pipeline work;
 
 `/board` renders the current scorecard. The five doc stages get codified into skills only after the first article runs through end-to-end.
 
-**Score directions** (1 to 5, set at `/rank`): virality (5 = most shareable in game-dev/AI circles), resume (5 = strongest proof of the Claim / most linkable), ease (5 = easiest, least prep), timeliness (5 = decays fastest if we wait). `priority` stays `null`; views weight axes themselves.
+**Score directions** (1 to 5, set at `/rank`): virality (5 = most shareable in game-dev/AI circles), resume (5 = strongest proof of the Claim / most linkable), ease (5 = easiest, least prep), timeliness (5 = decays fastest if we wait), fit (5 = directly proves the intersection Claim — producer judgment plus AI on a game — and reaches the target audience). `priority` stays `null`; views weight axes themselves.
 
 **Gate model** (`gate_class` per article, the legal-risk axis, not content type): `clear` (always publishable under own name) | `employer-specific` (names current-employer specifics) | `commercial` (sells a service, names/solicits clients, or reveals competing business). `meta.gates` dates each restricted class; both `employer-specific` and `commercial` are gated to `2027-01-01` (restrictions run through 2026-12-31). `/post` blocks a restricted article when its gate date is `null` or in the future; `clear` always passes.
 

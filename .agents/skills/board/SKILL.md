@@ -1,6 +1,6 @@
 ---
 name: board
-description: Render the current article scorecard — ranked articles in a table with their 4-axis scores and stage. Use when the user says "/board", "show the board", or wants to see the article pipeline at a glance.
+description: Render the current article scorecard — ranked articles in a table with their 5-axis scores and stage. Use when the user says "/board", "show the board", or wants to see the article pipeline at a glance.
 ---
 
 # /board — Scorecard view
@@ -10,10 +10,10 @@ Renders the current state of the article pipeline as a table. Read-only; never e
 ## Steps
 
 1. Load `articles/articles.json`.
-2. Render the `ranked` articles (those with all four scores set) as a scorecard table, highest-value first. Default sort: a balanced read across the four axes (sum of `virality + resume + ease + timeliness`), but do not write any `priority` value back: `priority` stays `null` and this ordering is just the view's own weighting. Note the sort used in one line.
+2. Render the `ranked` articles (stage `ranked`) as a scorecard table, highest-value first. Default sort: a balanced read across the five axes (sum of `virality + resume + ease + timeliness + fit`), but do not write any `priority` value back: `priority` stays `null` and this ordering is just the view's own weighting. Note the sort used in one line.
 
-   | id | title | category | gate_class | stage | virality | resume | ease | timeliness |
-   |----|-------|----------|-----------|-------|----------|--------|------|------------|
+   | id | title | category | gate_class | stage | virality | resume | ease | timeliness | fit |
+   |----|-------|----------|-----------|-------|----------|--------|------|------------|-----|
 
 3. Below the table, list anything not yet on the board in compact form:
    - **Kindling (unranked):** ids + titles still at `kindling`.

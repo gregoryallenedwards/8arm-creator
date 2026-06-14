@@ -66,7 +66,7 @@ Single structured source of truth: list + scores + stage + pointers. Heavy conte
       "tags": ["flagship"],
       "gate_class": "clear",
       "stage": "kindling",
-      "scores": { "virality": null, "resume": null, "ease": null, "timeliness": null },
+      "scores": { "virality": null, "resume": null, "ease": null, "timeliness": null, "fit": null },
       "priority": null,
       "paths": { "working": null, "archive": null },
       "assets": [],
@@ -94,6 +94,7 @@ Single structured source of truth: list + scores + stage + pointers. Heavy conte
 - **resume** `1–5` — 5 = strongest proof of the Claim / most linkable artifact.
 - **ease** `1–5` — 5 = easiest / least prep.
 - **timeliness** `1–5` — 5 = decays fastest if we wait / most urgent.
+- **fit** `1–5` — strategic and audience fit to the intersection Claim ("I ship commercially successful games with AI-sized teams"). 5 = directly proves producer judgment applied with AI on a game, and reaches the target audience (game devs, indies, AI builders, hiring execs); 3 = proves one side, or reaches only a partial audience; 1 = AI lifehack or off-topic with no games connection and weak audience fit.
 
 ---
 
