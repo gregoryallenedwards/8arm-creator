@@ -266,6 +266,51 @@
       "assets": [],
       "posted_to": [],
       "notes": "Source: PROJECTS.md backlog (Free Apps). Off-Claim filler per PROJECTS.md."
+    },
+    {
+      "id": "a018",
+      "slug": "todo-list-git-repo",
+      "title": "I run my entire todo list as a git repo Claude manages",
+      "category": 3,
+      "tags": ["artifact"],
+      "gate_class": "clear",
+      "stage": "kindling",
+      "scores": { "virality": null, "resume": null, "ease": null, "timeliness": null },
+      "priority": null,
+      "paths": { "working": null, "archive": null },
+      "assets": [],
+      "posted_to": [],
+      "notes": "Source: parked-todos repo. Show CLAUDE.md as the brain, the INGEST.md -> PROCESSED.md loop, /sync and /wrap skills. The hook: my todos talk back and act on themselves between sessions. Takeaway reader copies: the CLAUDE.md + INGEST pattern. Note: part of a potential workflow/consulting series."
+    },
+    {
+      "id": "a019",
+      "slug": "sold-flat-claude-photos",
+      "title": "I sold a flat by pointing Claude at a pile of photos",
+      "category": 3,
+      "tags": ["artifact"],
+      "gate_class": "clear",
+      "stage": "kindling",
+      "scores": { "virality": null, "resume": null, "ease": null, "timeliness": null },
+      "priority": null,
+      "paths": { "working": null, "archive": null },
+      "assets": [],
+      "posted_to": [],
+      "notes": "Source: selling/ eBay pipeline + /classify-photos skill. Show inbox -> auto-classify -> 29 sorted item folders. The hook: I didn't organize anything; the skill did. Real artifact, real outcome. Takeaway reader copies: the classify-photos skill structure. Note: part of a potential workflow/consulting series."
+    },
+    {
+      "id": "a020",
+      "slug": "hours-talks-searchable-notes",
+      "title": "Turning hours of talks into filed, searchable notes",
+      "category": 3,
+      "tags": ["artifact"],
+      "gate_class": "clear",
+      "stage": "kindling",
+      "scores": { "virality": null, "resume": null, "ease": null, "timeliness": null },
+      "priority": null,
+      "paths": { "working": null, "archive": null },
+      "assets": [],
+      "posted_to": [],
+      "notes": "Source: transcriptions/ pipeline (Chris Zukowski game-marketing talks). Show raw transcript -> routed/filed/summarized. The hook: dictation and recordings stop being a graveyard. Takeaway reader copies: the transcript-routing prompt. Note: part of a potential workflow/consulting series."
     }
   ]
 }
