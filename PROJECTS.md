@@ -64,9 +64,7 @@ _(moved to ACTIONS.md)_
 
 > Not part of the normal culling process. Fun or serious problems Allen wants to explore with Fable 5. Never displace flagship or side projects.
 
-| Item | Notes |
-|------|-------|
-| Fable the topics and experiments | Send 8-Arm content and experiment files to Fable; have it identify Substack topics and experiments worth pursuing. |
+_(empty)_
 
 ---
 

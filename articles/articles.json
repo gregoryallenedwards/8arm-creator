@@ -311,6 +311,66 @@
       "assets": [],
       "posted_to": [],
       "notes": "Source: transcriptions/ pipeline (Chris Zukowski game-marketing talks). Show raw transcript -> routed/filed/summarized. The hook: dictation and recordings stop being a graveyard. Takeaway reader copies: the transcript-routing prompt. Note: part of a potential workflow/consulting series."
+    },
+    {
+      "id": "a021",
+      "slug": "digital-nomad-visa-reset-timer",
+      "title": "Digital Nomad visa reset timer",
+      "category": 5,
+      "tags": ["experiment"],
+      "gate_class": "clear",
+      "stage": "kindling",
+      "scores": { "virality": null, "resume": null, "ease": null, "timeliness": null },
+      "priority": null,
+      "paths": { "working": null, "archive": null },
+      "assets": [],
+      "posted_to": [],
+      "notes": "Free tool for r/digitalnomad. Filler / viral experiment only. Parked from 8arm Phase 0 list on 2026-06-14 - doesn't fit Phase 0 focus."
+    },
+    {
+      "id": "a022",
+      "slug": "headcount-burn-rate-calculator",
+      "title": "Headcount burn rate calculator",
+      "category": 5,
+      "tags": ["experiment"],
+      "gate_class": "clear",
+      "stage": "kindling",
+      "scores": { "virality": null, "resume": null, "ease": null, "timeliness": null },
+      "priority": null,
+      "paths": { "working": null, "archive": null },
+      "assets": [],
+      "posted_to": [],
+      "notes": "Free tool for startup ops. Filler only. Parked from 8arm Phase 0 list on 2026-06-14 - doesn't fit Phase 0 focus."
+    },
+    {
+      "id": "a023",
+      "slug": "scribe-to-ingest-pipeline",
+      "title": "Scribe-to-ingest pipeline",
+      "category": 3,
+      "tags": ["artifact"],
+      "gate_class": "clear",
+      "stage": "kindling",
+      "scores": { "virality": null, "resume": null, "ease": null, "timeliness": null },
+      "priority": null,
+      "paths": { "working": null, "archive": null },
+      "assets": [],
+      "posted_to": [],
+      "notes": "Idea: take dictated/handwritten text files from Kindle Scribe and auto-parse them into project ingests. Lines starting with \"Action:\" get routed to the right project's INGEST.md. Ask which project if ambiguous. Could kick off new repo creation for big ideas. Send to a dedicated email (e.g. scribe@gmail.com) -> auto-parsed and pushed to GitHub. Cron or event-driven Claude runs against INGEST files; throttle to e.g. 5h after last run to control costs. Potential article: \"Design and build an app from Kindle Scribe\""
+    },
+    {
+      "id": "a024",
+      "slug": "work-day-overlap-calculator",
+      "title": "Work day overlap calculator",
+      "category": 5,
+      "tags": ["experiment"],
+      "gate_class": "clear",
+      "stage": "kindling",
+      "scores": { "virality": null, "resume": null, "ease": null, "timeliness": null },
+      "priority": null,
+      "paths": { "working": null, "archive": null },
+      "assets": [],
+      "posted_to": [],
+      "notes": "Remote-team timezone overlap tool. Filler only. Parked from 8arm Phase 0 list on 2026-06-14 - doesn't fit Phase 0 focus."
     }
   ]
 }
