@@ -2,7 +2,7 @@
 
 **Writing & Style Rules**
 - NEVER use em dashes. Use alternative phrasing or standard punctuation.
-- **Rule:** When asked for "todos", always list the active/backlog projects from `PROJECTS.md` in addition to the items in this file. NEVER summarize, truncate, or hide any items. Show the complete, exhaustive list of everything.
+- **Rule:** When asked for "todos", always list the active/backlog projects from `PROJECTS.md` in addition to the items in this file. NEVER summarize, truncate, or hide any items. Show the complete, exhaustive list of everything — **excluding items with status `done`**.
 
 Running list of things Allen and/or Claude need to do. Review at the start of each session.
 
@@ -16,19 +16,15 @@ Running list of things Allen and/or Claude need to do. Review at the start of ea
 
 | # | Action | Owner | Status | Notes |
 |---|--------|-------|--------|-------|
-| 18 | Substack articles and experiments | Both | pending | Consolidated article-creation todos. Full line items in `substack-articles-and-experiments.md` (moved from INGEST.md) |
-| 24 | Move projects to article repo | Both | pending | Move most of these to the article repo |
+| 18 | Substack articles | Both | pending | THE single high-priority Substack workstream. Article *ideas* live in the kindling pipeline (`articles/articles.json` via `/kindle` `/rank` `/board`), not in this list. Process/tooling notes in `substack-articles-and-experiments.md`. |
 
 ## 🟡 Medium Priority
 
 | # | Action | Owner | Status | Notes |
 |---|--------|-------|--------|-------|
-| 20 | Producer workflow tool | Allen | pending | Productize last-mile producer work: handling inbound briefs, invoices, vendor coordination. Could pick from an MCP of available vendors, check availability, help assemble external briefs. Evaluate if product or personal system. |
-| 21 | Discoverability strategy | Both | pending | Match 3 discovery is a challenge. Explore: tech approach (ASO, web SEO, community drops, influencer seeding); process for achieving product-market fit with AI-sized team; how to do this without marketing budget. Capture findings in strategy/. |
+| 26 | Match 3 white label | Both | pending | Flagship build. Build full game; core loop validated by Match 3 Test. |
+| 27 | This 60 MCP | Both | pending | AI-native todo list for power users. Expand concept; run fit check before building. Also candidate for Validation. |
 
 ## 🟢 Low Priority
 
-| # | Action | Owner | Status | Notes |
-|---|--------|-------|--------|-------|
-| 14 | Define research file usage protocol | Claude | done | Documented in strategy/research-workflow.md |
-| 17 | Go through **Match 3 test** project stages and identify processes that could become SaaS businesses for other AI creators | Both | pending | Look for repeatable workflows in the build process that could be productized |
+_(empty)_

@@ -22,30 +22,19 @@
 
 ## Active
 
-| Project | Status | Size | Impact | Priority | Post Angle | Next Action |
-|---------|--------|------|--------|----------|------------|-------------|
-| Match 3 white label | active | XL | 5 | 🔴 | First fully AI-automated Match 3 — no studio, no engine lock-in | Build full game; core loop validated by Match 3 Test. |
+_(moved to ACTIONS.md)_
 
 ---
 
 ## Backlog — Games
 
-| Project | Status | Size | Impact | Priority | Post Angle | Next Action |
-|---------|--------|------|--------|----------|------------|-------------|
-| Fishing Game | backlog | S | 3 | 🟢 | Fishing game prototype — web-first distribution | Duplicate path to flagship; revisit if Match 3 stalls |
-| Claude Decider Engine | killed | S | 4 | — | I built a Claude agent that decides what to build next | Killed per Allen's instruction |
-| Match 3 white label | active | XL | 5 | 🔴 | First fully AI-automated Match 3 — no studio, no engine lock-in | (moved to Active) |
-| Bait & Tackle RPG Fishing | backlog | L | 3 | 🟢 | Idle fishing RPG — how far can one person get with AI tools | TBD |
-| Casino game | backlog | M | 3 | 🟢 | Building a casino game in public — RNG and economy design | TBD |
+_(moved to article pipeline — see articles/articles.json)_
 
 ---
 
 ## Backlog — Free Apps (Community Drops)
 
-| Project | Status | Size | Impact | Priority | Post Angle | Next Action |
-|---------|--------|------|--------|----------|------------|-------------|
-| Corporate apology generator | killed | XS | 4 | — | Satirical tool, MSCHF-style drop for r/InternetIsBeautiful | Killed by Allen |
-| Gamified anxiety audit | backlog | S | 2 | 🟢 | Culture jamming wellness apps with their own mechanics | Off the Claim; filler only |
+_(moved to article pipeline — see articles/articles.json)_
 
 ---
 
@@ -56,7 +45,7 @@
 | Mobile dev with phone (DEX + XReal) | killed | M | 5 | — | How far can you get as a developer with just a mobile phone | Killed by Allen |
 | Firecrawl integration demo | killed | S | 4 | — | Using Firecrawl for cheap sentiment crawling | Killed by Allen |
 | GitHub Actions CI/CD demo | killed | S | 4 | — | Automating my build pipeline | Killed by Allen |
-| Stripe web billing demo | backlog | S | 3 | 🟢 | Wiring Stripe into a web app in one session | TBD |
+| Stripe web billing demo | → article pipeline | — | — | — | Wiring Stripe into a web app in one session | See a008 in articles.json |
 
 ---
 
@@ -67,9 +56,7 @@
 | Antigravity Job App Pipeline | done | S | 4 | — | End-to-end automated job hunting: finding roles to generating PDF applications with Antigravity | Completed |
 | Autonomous Job Hunt via Claude Cowork | done | S | 5 | — | Automating my job hunt by sending personalized messages to contacts rather than generating resumes | Completed |
 | Wireframe → polished UI pipeline | killed | S | 4 | — | From Claude Design wireframe to production-ready look | Killed by Allen |
-| Automated Substack pipeline | backlog | M | 4 | 🟡 | How I semi-automate my newsletter with MD files + Claude | TBD |
-| This 60 MCP | backlog | L | 4 | 🔴 | AI-native todo list for power users: merges scattered todos across repos and chats, migrates items between LLMs, ties to GitHub issues | Expand concept; run fit check before building. Also candidate for Validation. |
-| Opus/Fable Substack generator | backlog | M | 3 | 🟢 | Article pipeline that includes a step to rewrite into Allen's voice; steps triggerable as email/agentic responses | TBD |
+_(moved to ACTIONS.md)_
 
 ---
 
@@ -93,13 +80,7 @@
 
 ## Backlog — Joy Projects (Ian persona — legitimate as long as building)
 
-| Project | Status | Size | Impact | Priority | Post Angle | Next Action |
-|---------|--------|------|--------|----------|------------|-------------|
-| Motivational Miner | backlog | M | 3 | 🟢 | Culture jamming + game design | TBD |
-| Trumpagotchi | backlog | S | 3 | 🟢 | TBD | TBD |
-| King of the Battlefield | backlog | L | 3 | 🟢 | TBD | TBD |
-| Survivor for the game industry | backlog | M | 3 | 🟢 | TBD | TBD |
-| Cut-ups | backlog | S | 2 | 🟢 | TBD | TBD |
+_(moved to article pipeline — see articles/articles.json)_
 
 ---
 

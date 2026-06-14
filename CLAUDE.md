@@ -35,7 +35,7 @@ Source of truth: `articles/PIPELINE.md`. Read it before doing any pipeline work;
 ## Session State
 
 - **Date:** 2026-06-14
-- **Branch:** claude/amazing-turing-xskasw
-- **What was done:** Built the article pipeline from articles/PIPELINE.md (new source of truth, added verbatim). Created articles/articles.json (meta with post_targets + 2027-01-01 gates; empty articles array, no records), and articles/working/ and articles/archive/ folders. Added the "## Article Pipeline" orientation block to CLAUDE.md. Built the three settled skills /kindle, /rank, /board in the /sync + /wrap convention; left /work /write /creative /post /archive as documented doc-stages.
-- **Open questions:** None blocking. PIPELINE.md uses em dashes (kept verbatim despite PROTOCOL's no-em-dash rule, since it is the provided spec). No prior pipeline doc existed to replace, so this was created fresh; strategy/substack-workflow.md and research-workflow.md were left untouched.
-- **Next action:** Run the first article through the pipeline end-to-end (/kindle to /archive), then codify the five deferred stages into skills.
+- **Branch:** main
+- **What was done:** Cleaned up the todo system and populated the article pipeline. ACTIONS.md now has a single high-priority item (#18 Substack articles) and two medium-priority items (#26 Match 3 white label, #27 This 60 MCP). Kindled and ranked 17 articles into articles/articles.json (all gate_class clear, all with proposed 4-axis scores). Moved Games, Free Apps, Stripe, Joy Projects, and Automation experiment articles out of PROJECTS.md and into the article pipeline. Added Workdeck definition. Updated ACTIONS.md todos rule to hide done items.
+- **Open questions:** None.
+- **Next action:** Work the first article through the pipeline. Strongest candidate for the 2026-07-15 first-post deadline: a002 "Fewer managers, more doers" (V:5 R:5 E:4 T:4).
